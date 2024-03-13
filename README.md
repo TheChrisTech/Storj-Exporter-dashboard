@@ -1,7 +1,7 @@
 
 ## About
 
-This repository is forked off of [anclrii/Storj-Exporter-dashboard]((https://github.com/anclrii/Storj-Exporter-dashboard), which unfortunately has gone quiet. This repository was created to update the dashboards and allow others to commit their own dashboards as well. All original work is credited to anclrii (Thank you!).
+This repository is forked off of [anclrii/Storj-Exporter-dashboard](https://github.com/anclrii/Storj-Exporter-dashboard), which unfortunately has gone quiet. This repository was created to update the dashboards and allow others to commit their own dashboards as well. All original work is credited to anclrii (Thank you!).
 
 # Storj Exporter dashboard
 Storj-exporter Grafana dashboard to visualise [Storj-Exporter](https://github.com/thechristech/Storj-Exporter) metrics for multiple Storj storage nodes. See my [quick-start guide](quick_start/) to set up the whole stack using docker-compose.
