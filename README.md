@@ -6,7 +6,7 @@ This repository is forked off of [anclrii/Storj-Exporter-dashboard](https://gith
 # Storj Exporter dashboard
 Storj-exporter Grafana dashboard to visualise [Storj-Exporter](https://github.com/thechristech/Storj-Exporter) metrics for multiple Storj storage nodes. See my [quick-start guide](quick_start/) to set up the whole stack using docker-compose.
 
-<img src="storj-exporter-boom-table.png" hight=490 width=490 align="right"/> 
+<img src="Storj-Exporter-v0.1.png" hight=490 width=490 align="right"/> 
 
 ## Installation on existing Grafana instance:
 Import Storj-Exporter-Boom-Table.json via your Grafana UI ("+" -> Import), select your Prometheus datasource at the top-left of the dashboard.
