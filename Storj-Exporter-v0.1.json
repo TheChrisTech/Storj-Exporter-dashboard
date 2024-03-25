@@ -2211,7 +2211,8 @@
             "align": "center",
             "displayMode": "auto",
             "inspect": false,
-            "width": 125
+            "minWidth": 0,
+            "width": 0
           },
           "mappings": [],
           "thresholds": {
